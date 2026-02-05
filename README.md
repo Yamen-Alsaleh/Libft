@@ -136,7 +136,7 @@ make re     # Recompile everything from scratch
 After compilation, the static library `libft.a` can be linked with other C projects:
 
 ```bash
-cc main.c -L. -lft
+cc main.c libft.a
 ```
 
 ---
