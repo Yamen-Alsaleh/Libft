@@ -1,5 +1,3 @@
----
-
 # Libft
 
 **Libft** is a custom C library developed as part of the **42 Network curriculum**, completed by **yalsaleh** during the **42 Irbid Common Core program (New Curriculum)**.
